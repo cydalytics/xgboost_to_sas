@@ -23,7 +23,7 @@ Data used in the scripts is [Iris dataset loaded from sklearn](https://scikit-le
 
 ## Demonstration
 
-[Demo 1: Convert XGBoost model to VBA](https://github.com/cydalytics/xgboost_to_sas/blob/main/Demo%201%20-%20Convert%20XGBoost%20model%20to%20VBA%2C%20then%20to%20SAS%20scripts.ipynb)
+[Demo 1: Convert XGBoost model to VBA, then to SAS scripts](https://github.com/cydalytics/xgboost_to_sas/blob/main/Demo%201%20-%20Convert%20XGBoost%20model%20to%20VBA%2C%20then%20to%20SAS%20scripts.ipynb)
 
 
 [Demo 2: Convert XGBoost model to VBA, then to SAS scripts (with missing values)](https://github.com/cydalytics/xgboost_to_sas/blob/main/Demo2%20-%20Convert%20XGBoost%20model%20to%20VBA%2C%20then%20to%20SAS%20scripts%20(with%20missing%20values).ipynb)
