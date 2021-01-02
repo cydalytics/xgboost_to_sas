@@ -1,4 +1,4 @@
-# xgboost_to_sas [![Python](https://img.shields.io/badge/Program-Python-BLUE)](https://cydalytics.blogspot.com/) [![m2cgen](https://img.shields.io/badge/Package-Folium-GREEN)](https://cydalytics.blogspot.com/)
+# xgboost_to_sas [![Python](https://img.shields.io/badge/Program-Python-BLUE)](https://cydalytics.blogspot.com/) [![m2cgen](https://img.shields.io/badge/Package-m2cgen-GREEN)](https://cydalytics.blogspot.com/)
 *<b>Created by cyda - Carrie Lo & Yeung Wong</b>*
 ![alt text](https://2.bp.blogspot.com/-JDCofS2Pvic/WxQCv_XstyI/AAAAAAAAABM/rWHKnG4ItnMULgmO_tWAuGTNL6kAexJlACK4BGAYYCw/s1000/tight%2Bbanner.png)
 
