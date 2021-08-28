@@ -1,6 +1,6 @@
 # xgboost_to_sas [![Python](https://img.shields.io/badge/Program-Python-BLUE)](https://cydalytics.blogspot.com/) [![m2cgen](https://img.shields.io/badge/Package-m2cgen-GREEN)](https://cydalytics.blogspot.com/)
 *<b>Created by cyda - Carrie Lo & Yeung Wong</b>*
-![alt text](https://2.bp.blogspot.com/-JDCofS2Pvic/WxQCv_XstyI/AAAAAAAAABM/rWHKnG4ItnMULgmO_tWAuGTNL6kAexJlACK4BGAYYCw/s1000/tight%2Bbanner.png)
+[![alt text](https://2.bp.blogspot.com/-JDCofS2Pvic/WxQCv_XstyI/AAAAAAAAABM/rWHKnG4ItnMULgmO_tWAuGTNL6kAexJlACK4BGAYYCw/s1000/tight%2Bbanner.png)](https://cydalytics.blogspot.com/)
 
 ---------------------------------------------------------------------------------------------
 ### Please acknowledge <b>team cyda - Carrie Lo and Yeung Wong</b> when using the code
@@ -15,7 +15,7 @@ Linkedin:
 This project demostrate a hack to deploy your trained ML models such as XGBoost and LightGBM in SAS.
 
 ## Project Details
-To check the tutorial article, please click [here](https://towardsdatascience.com/using-folium-to-generate-choropleth-map-with-customised-tooltips-12e4cec42af2).
+To check the tutorial article, please click [here](https://towardsdatascience.com/converting-machine-learning-models-to-sas-using-m2cgen-python-190d846090dc?sk=3d2a84fa98beffea19cd5eafed3e46de).
 
 The package used is `m2cgen`. m2cgen(Model 2 Code Generator) - is a lightweight library which provides an easy way to transpile trained statistical models into a native code (Python, C, Java, Go, JavaScript, Visual Basic, C#, PowerShell, R, PHP, Dart, Haskell, Ruby, F#). To know more about the package, you can refer to the docunment [here](https://pypi.org/project/m2cgen/).
 
